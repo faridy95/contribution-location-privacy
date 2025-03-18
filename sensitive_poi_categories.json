@@ -1,0 +1,52 @@
+{
+    "healthcare": {
+        "tags": ["amenity"],
+        "values": ["hospital", "clinic", "social_facility", "pharmacy", "dentist", "nursing_home"],
+        "description": "Medical and healthcare-related locations."
+    },
+    "religious_sites": {
+        "tags": ["amenity", "building"],
+        "values": ["place_of_worship", "place_of_mourning", "mosque", "synagogue", "temple"],
+        "description": "Places of religious worship and spiritual gatherings."
+    },
+    "education": {
+        "tags": ["amenity"],
+        "values": ["school", "university", "college", "kindergarten"],
+        "description": "Educational institutions at different levels."
+    },
+    "finance": {
+        "tags": ["amenity"],
+        "values": ["bank", "atm", "bureau_de_change", "money_transfer"],
+        "description": "Financial institutions and services."
+    },
+    "social_services": {
+        "tags": ["amenity"],
+        "values": ["social_facility", "community_centre", "welfare_office"],
+        "description": "Facilities offering social support and community welfare services."
+    },
+    "residential": {
+        "tags": ["building"],
+        "values": ["apartments", "house", "residential", "dormitory"],
+        "description": "Residential buildings and living spaces."
+    },
+    "transportation": {
+        "tags": ["amenity", "public_transport"],
+        "values": ["train_station", "airport", "ferry_terminal"],
+        "description": "Transportation hubs for public transit."
+    },
+    "law_enforcement": {
+        "tags": ["amenity"],
+        "values": ["police", "prison", "courthouse"],
+        "description": "Law enforcement and judicial institutions."
+    },
+    "government": {
+        "tags": ["amenity"],
+        "values": ["townhall", "government", "embassy"],
+        "description": "Government offices and official buildings."
+    },
+    "shopping": {
+        "tags": ["shop"],
+        "values": ["marketplace", "mall", "department_store"],
+        "description": "Retail and shopping centers."
+    }
+}

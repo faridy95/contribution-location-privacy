@@ -1,0 +1,42 @@
+{
+    "amenity": {
+        "sustenance": [
+            "bar", "bbq", "biergarten", "cafe", "fast_food", "food_court", "ice_cream", "pub", "restaurant"
+        ],
+        "education": [
+            "college", "kindergarten", "library", "school", "university", "music_school", "driving_school", "language_school"
+        ],
+        "transportation": [
+            "bus_station", "car_rental", "car_wash", "ferry_terminal", "parking", "taxi", "train_station", "airport"
+        ],
+        "financial": [
+            "atm", "bank", "bureau_de_change", "money_transfer"
+        ],
+        "healthcare": [
+            "clinic", "dentist", "doctors", "hospital", "pharmacy", "social_facility", "veterinary", "nursing_home"
+        ],
+        "entertainment_arts_culture": [
+            "arts_centre", "cinema", "community_centre", "nightclub", "planetarium", "public_bath",
+            "sauna", "theatre", "casino"
+        ],
+        "public_service": [
+            "courthouse", "embassy", "fire_station", "police", "post_box", "post_office", "prison", "townhall", "government"
+        ],
+        "facilities": [
+            "bench", "drinking_water", "marketplace", "monastery", "place_of_worship", "waste_basket", "shower", "place_of_mourning"
+        ]
+    },
+    "building": {
+        "residential": [
+            "apartments", "house", "residential", "dormitory"
+        ],
+        "religious_sites": [
+            "place_of_worship", "place_of_mourning", "mosque", "synagogue", "temple", "monastery"
+        ]
+    },
+    "shop": {
+        "shopping": [
+            "marketplace", "mall", "department_store"
+        ]
+    }
+}
